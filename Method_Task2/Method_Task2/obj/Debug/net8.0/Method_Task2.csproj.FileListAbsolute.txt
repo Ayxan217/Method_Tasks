@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\Method_Task2\Method_Task2\bin\Debug\net8.0\Method_Task2.exe
+C:\Users\pc\source\repos\Method_Task2\Method_Task2\bin\Debug\net8.0\Method_Task2.deps.json
+C:\Users\pc\source\repos\Method_Task2\Method_Task2\bin\Debug\net8.0\Method_Task2.runtimeconfig.json
+C:\Users\pc\source\repos\Method_Task2\Method_Task2\bin\Debug\net8.0\Method_Task2.dll
+C:\Users\pc\source\repos\Method_Task2\Method_Task2\bin\Debug\net8.0\Method_Task2.pdb
+C:\Users\pc\source\repos\Method_Task2\Method_Task2\obj\Debug\net8.0\Method_Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Method_Task2\Method_Task2\obj\Debug\net8.0\Method_Task2.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Method_Task2\Method_Task2\obj\Debug\net8.0\Method_Task2.AssemblyInfo.cs
+C:\Users\pc\source\repos\Method_Task2\Method_Task2\obj\Debug\net8.0\Method_Task2.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Method_Task2\Method_Task2\obj\Debug\net8.0\Method_Task2.dll
+C:\Users\pc\source\repos\Method_Task2\Method_Task2\obj\Debug\net8.0\refint\Method_Task2.dll
+C:\Users\pc\source\repos\Method_Task2\Method_Task2\obj\Debug\net8.0\Method_Task2.pdb
+C:\Users\pc\source\repos\Method_Task2\Method_Task2\obj\Debug\net8.0\Method_Task2.genruntimeconfig.cache
+C:\Users\pc\source\repos\Method_Task2\Method_Task2\obj\Debug\net8.0\ref\Method_Task2.dll
